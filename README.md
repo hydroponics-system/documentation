@@ -1,1 +1,2 @@
-# documentation
+# Documentation
+This repo is for documenting and helping maintain a hydroponic system. It will have releveant use cases and test cases to help the development of the system as it progresses. This repo will also hold information on environment setup such as MySql Workbench, Vscode, and Heroku. It will help set up the code environments needed to make this system functional and in use. The documentation will be held in githubs [Wiki pages](https://github.com/hydroponics-system/documentation/wiki).
